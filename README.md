@@ -3,7 +3,7 @@
 I'm a passionate **Frontend Engineer** with experience in **Web technologies**. I love building impactful digital solutions, contributing to open-source projects, and sharing knowledge with the developer community.
 
 - 💼 Currently working at **ETranzact Plc** as a **Senior Frontend Engineer**.
-- 🧑‍💻 Actively contributing to **[Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp)**.
+- 🧑‍💻 Actively contributing to **[Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp)** and [Simple-icons](https://github.com/simple-icons/simple-icons/).
 - 📚 Passionate about **Web Performance and Accessibility**.
 - 🎯 Actively contributing to communities and mentoring on **[Adplist](https://adplist.org/mentors/timilehin-micheal)**.
 
