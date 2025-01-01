@@ -14,16 +14,28 @@ I'm a passionate **Frontend Engineer** with experience in **Web technologies**. 
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Docker, Cypress
 
-## 🌐 Connect with Me
-- [All](https://linktr.ee/timmy471)
-- [LinkedIn](https://www.linkedin.com/in/timilehin-micheal/)  
-- [Twitter](https://x.com/Timi471)
-- [Website](https://ayantunjitimilehin.com)
+
+## Stats
+
+<a href="https://github.com/timmy471" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmy471&layout=compact&theme=dark&hide_progress=true" style="width: 350px; height: auto;"/>
+</a>
+<br>
+<a href="https://github.com/timmy471" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=timmy471&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true&custom_title=GitHub%20Stats" style="width: 350px; height: auto;"/>
+</a>
 
 <!--
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timmy471&show_icons=true&theme=radical)
 -->
+
+## 🌐 Connect with Me
+- [All](https://linktr.ee/timmy471)
+- [LinkedIn](https://www.linkedin.com/in/timilehin-micheal/)  
+- [Twitter](https://x.com/Timi471)
+- [Website](https://ayantunjitimilehin.com)
+  
 
 ## 📖 Recent Articles
 - [Build Multilingual Apps with React](https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/)
