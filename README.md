@@ -38,7 +38,7 @@ I'm a passionate **Frontend Engineer** with experience in **Web technologies**. 
   
 
 ## 📖 Recent Articles
-- [Build Multilingual Apps with React](https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/)
+- [How to Optimize Next.js Web Apps for Better Performance](https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/)
 - [Build Multilingual Apps with React](https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/)
 - [Building Better React & Next.js Apps: Mistakes, Tips, and Best Practices](https://hackernoon.com/building-better-react-and-nextjs-apps-mistakes-tips-and-best-practices)
 - [Build a Progressive Web App in Minutes with Next.js](https://hackernoon.com/learn-how-build-a-progressive-web-app-in-minutes-with-nextjs)
