@@ -34,7 +34,7 @@ I'm a passionate **Frontend Engineer** with experience in **Web technologies**. 
 - [All](https://linktr.ee/timmy471)
 - [LinkedIn](https://www.linkedin.com/in/timilehin-micheal/)  
 - [Twitter](https://x.com/Timi471)
-- [Website](https://ayantunjitimilehin.com)
+- [Website](https://theayantunjitimilehin.com)
   
 
 ## 📖 Recent Articles
