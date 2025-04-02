@@ -38,6 +38,7 @@ I'm a passionate **Frontend Engineer** with experience in **Web technologies**. 
   
 
 ## 📖 Recent Articles
+- [AI Is Slowing Your Website Down. Here’s How to Fix It](https://builtin.com/artificial-intelligence/ai-slowing-website-down)
 - [How to Optimize Next.js Web Apps for Better Performance](https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/)
 - [Build Multilingual Apps with React](https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/)
 - [Building Better React & Next.js Apps: Mistakes, Tips, and Best Practices](https://hackernoon.com/building-better-react-and-nextjs-apps-mistakes-tips-and-best-practices)
